@@ -1,0 +1,47 @@
+_repo: Venice-and-its-Story_41209
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Hinchliff, Woodbine K., active 1895-1911
+    alias: Hinchliff, W. K.
+    gutenberg_agent_id: '41037'
+    url: http://www.gutenberg.org/2009/agents/41037
+  - agent_name: Ward, O. F. M.
+    aliases:
+    - Ward, Orlando Frank Montagu
+    - Ward, O.F.M.
+    birthdate: 1868
+    deathdate: 1955
+    gutenberg_agent_id: '43227'
+    url: http://www.gutenberg.org/2009/agents/43227
+  - agent_name: Erichsen, Nelly
+    gutenberg_agent_id: '39068'
+    url: http://www.gutenberg.org/2009/agents/39068
+covers:
+- cover_type: archival
+  image_path: 41209-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Okey, Thomas
+    birthdate: 1852
+    deathdate: 1935
+    gutenberg_agent_id: '32019'
+    url: http://www.gutenberg.org/2009/agents/32019
+description: ''
+gutenberg_bookshelf: Mediæval Town Series
+gutenberg_issued: '2012-10-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41209'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Mediæval town series
+subjects:
+- !lcsh 'Art -- Italy -- Venice'
+- !lcsh 'Venice (Italy) -- History'
+- !lcsh 'Venice (Italy) -- Description and travel'
+- !lcc 'DG'
+title: Venice and Its Story
+url: http://www.gutenberg.org/ebooks/41209
